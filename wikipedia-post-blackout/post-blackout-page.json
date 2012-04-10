@@ -1,0 +1,3751 @@
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Accept",
+            "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+        }
+    ],
+    "id": 1,
+    "method": "GET",
+    "time": "2012-01-19T09:58:15.460Z",
+    "url": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+}
+Receive {
+    "bodySize": 1254,
+    "contentType": "text/html; charset=UTF-8",
+    "headers": [
+        {
+            "name": "Age",
+            "value": "11"
+        },
+        {
+            "name": "Cache-Control",
+            "value": "private, s-maxage=0, max-age=0, must-revalidate"
+        },
+        {
+            "name": "Content-Language",
+            "value": "en"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/html; charset=UTF-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:04 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Thu, 19 Jan 2012 06:57:11 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Transfer-Encoding",
+            "value": "chunked"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding,Cookie"
+        },
+        {
+            "name": "Via",
+            "value": "1.0 webwasher (Webwasher 6.9.0.11282)"
+        },
+        {
+            "name": "X-Cache",
+            "value": "MISS from sq62.wikimedia.org, HIT from sq37.wikimedia.org"
+        },
+        {
+            "name": "X-Cache-Lookup",
+            "value": "HIT from sq62.wikimedia.org:3128, HIT from sq37.wikimedia.org:80"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        }
+    ],
+    "id": 1,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:15.818Z",
+    "url": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Accept",
+            "value": "text/css,*/*;q=0.1"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        }
+    ],
+    "id": 2,
+    "method": "GET",
+    "time": "2012-01-19T09:58:15.822Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=ext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&only=styles&skin=vector&*"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Accept",
+            "value": "text/css,*/*;q=0.1"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        }
+    ],
+    "id": 3,
+    "method": "GET",
+    "time": "2012-01-19T09:58:15.823Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=site&only=styles&skin=vector&*"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        }
+    ],
+    "id": 4,
+    "method": "GET",
+    "time": "2012-01-19T09:58:15.824Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&*"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        }
+    ],
+    "id": 5,
+    "method": "GET",
+    "time": "2012-01-19T09:58:15.859Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=skins.vector&only=scripts&skin=vector&*"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        }
+    ],
+    "id": 6,
+    "method": "GET",
+    "time": "2012-01-19T09:58:15.859Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=site&only=scripts&skin=vector&*"
+}
+Receive {
+    "contentType": "text/html; charset=UTF-8",
+    "headers": [
+        {
+            "name": "Age",
+            "value": "11"
+        },
+        {
+            "name": "Cache-Control",
+            "value": "private, s-maxage=0, max-age=0, must-revalidate"
+        },
+        {
+            "name": "Content-Language",
+            "value": "en"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/html; charset=UTF-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:04 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Thu, 19 Jan 2012 06:57:11 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Transfer-Encoding",
+            "value": "chunked"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding,Cookie"
+        },
+        {
+            "name": "Via",
+            "value": "1.0 webwasher (Webwasher 6.9.0.11282)"
+        },
+        {
+            "name": "X-Cache",
+            "value": "MISS from sq62.wikimedia.org, HIT from sq37.wikimedia.org"
+        },
+        {
+            "name": "X-Cache-Lookup",
+            "value": "HIT from sq62.wikimedia.org:3128, HIT from sq37.wikimedia.org:80"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        }
+    ],
+    "id": 1,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:15.859Z",
+    "url": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+}
+Receive {
+    "bodySize": 1703,
+    "contentType": "text/css; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "168"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=300, s-maxage=300"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/css; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:15 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 19 Jan 2012 10:00:28 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Tue, 17 Jan 2012 02:23:54 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (1100)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "3412827191 3412826043, 2006259075 2004854399"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 3,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:15.869Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=site&only=styles&skin=vector&*"
+}
+Receive {
+    "contentType": "text/css; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "168"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=300, s-maxage=300"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/css; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:15 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 19 Jan 2012 10:00:28 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Tue, 17 Jan 2012 02:23:54 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (1100)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "3412827191 3412826043, 2006259075 2004854399"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 3,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:15.869Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=site&only=styles&skin=vector&*"
+}
+Receive {
+    "bodySize": 15329,
+    "contentType": "text/javascript; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "142"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=300, s-maxage=300"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/javascript; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:15 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 19 Jan 2012 10:00:54 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Thu, 19 Jan 2012 03:38:12 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (233)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "3413618298 3412988286, 2243862979 2243544289"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 4,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:15.880Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&*"
+}
+Receive {
+    "contentType": "text/javascript; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "142"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=300, s-maxage=300"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/javascript; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:15 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 19 Jan 2012 10:00:54 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Thu, 19 Jan 2012 03:38:12 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (233)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "3413618298 3412988286, 2243862979 2243544289"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 4,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:15.881Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&*"
+}
+Receive {
+    "bodySize": 435,
+    "contentType": "text/javascript; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "284"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=300, s-maxage=300"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/javascript; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:15 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 19 Jan 2012 09:58:32 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Tue, 03 Jan 2012 22:09:04 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (707)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "3413111378 3412095484, 2006259177 2005238715"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 5,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:15.882Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=skins.vector&only=scripts&skin=vector&*"
+}
+Receive {
+    "contentType": "text/javascript; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "284"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=300, s-maxage=300"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/javascript; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:15 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 19 Jan 2012 09:58:32 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Tue, 03 Jan 2012 22:09:04 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (707)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "3413111378 3412095484, 2006259177 2005238715"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 5,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:15.883Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=skins.vector&only=scripts&skin=vector&*"
+}
+Receive {
+    "bodySize": 47677,
+    "contentType": "text/css; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "209"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=300, s-maxage=300"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/css; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:15 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 19 Jan 2012 09:59:46 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Mon, 16 Jan 2012 18:43:20 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (1019)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "2935591630 2935218255, 2006259069 2005005807"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 2,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:15.896Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=ext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&only=styles&skin=vector&*"
+}
+Receive {
+    "contentType": "text/css; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "209"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=300, s-maxage=300"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/css; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:15 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 19 Jan 2012 09:59:46 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Mon, 16 Jan 2012 18:43:20 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (1019)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "2935591630 2935218255, 2006259069 2005005807"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 2,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:15.901Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=ext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&only=styles&skin=vector&*"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        }
+    ],
+    "id": 7,
+    "method": "GET",
+    "time": "2012-01-19T09:58:15.907Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki&only=scripts&skin=vector&version=20111213T185322Z"
+}
+Receive {
+    "bodySize": 56932,
+    "contentType": "text/javascript; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "808834"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=2592000, s-maxage=2592000"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/javascript; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:15 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 09 Feb 2012 01:17:41 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Tue, 13 Dec 2011 18:53:22 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (986464)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "2450083591 394965146, 2006259568 2963785549"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 7,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:15.955Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki&only=scripts&skin=vector&version=20111213T185322Z"
+}
+Receive {
+    "contentType": "text/javascript; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "808834"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=2592000, s-maxage=2592000"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/javascript; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:15 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 09 Feb 2012 01:17:41 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Tue, 13 Dec 2011 18:53:22 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (986464)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "2450083591 394965146, 2006259568 2963785549"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 7,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:15.977Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki&only=scripts&skin=vector&version=20111213T185322Z"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        }
+    ],
+    "id": 8,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.000Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=jquery.client%7Cmediawiki.page.startup&skin=vector&version=20111109T233829Z&*"
+}
+Receive {
+    "bodySize": 5996,
+    "contentType": "text/javascript; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes, bytes"
+        },
+        {
+            "name": "Age",
+            "value": "71, 71"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=300, s-maxage=300"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/javascript; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:15 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 19 Jan 2012 10:02:05 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Tue, 17 Jan 2012 02:23:54 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "miss (0)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "3413857156 3413413689, 2243863206"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 6,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.000Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=site&only=scripts&skin=vector&*"
+}
+Receive {
+    "contentType": "text/javascript; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes, bytes"
+        },
+        {
+            "name": "Age",
+            "value": "71, 71"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=300, s-maxage=300"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/javascript; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:15 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 19 Jan 2012 10:02:05 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Tue, 17 Jan 2012 02:23:54 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "miss (0)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "3413857156 3413413689, 2243863206"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 6,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.001Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=site&only=scripts&skin=vector&*"
+}
+Receive {
+    "bodySize": 3366,
+    "contentType": "text/javascript; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "809014"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=2592000, s-maxage=2592000"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/javascript; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:16 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 09 Feb 2012 01:14:42 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Wed, 09 Nov 2011 23:38:29 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (948801)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "3393198852 871874827, 2243864255 3461147128"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 8,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.023Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=jquery.client%7Cmediawiki.page.startup&skin=vector&version=20111109T233829Z&*"
+}
+Receive {
+    "contentType": "text/javascript; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "809014"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=2592000, s-maxage=2592000"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/javascript; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:16 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 09 Feb 2012 01:14:42 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Wed, 09 Nov 2011 23:38:29 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (948801)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "3393198852 871874827, 2243864255 3461147128"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 8,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.023Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=jquery.client%7Cmediawiki.page.startup&skin=vector&version=20111109T233829Z&*"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 9,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.027Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAAAAAA6fptVAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABRJREFUeF4FwTEBAAAAwJD1D+weGQD4APc0a6VeAAAAAElFTkSuQmCC"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 10,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.027Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAsCAIAAAArRUU2AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADpJREFUeF5VjUkOAEAIwoD//7lzGJd4MJHGSoBImkFETP67CdLldUd7KC6f8fv3+psd8znbtU5x354HaWQjOx76v7MAAAAASUVORK5CYII="
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 11,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.028Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeF4FwTEBAAAAgjD7FzESWfjYdgwEoAJ4lTsaxgAAAABJRU5ErkJggg=="
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 12,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.029Z",
+    "url": "http://upload.wikimedia.org/wikipedia/commons/0/03/POSTSOPA_Landing_W-2.jpg"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 13,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.210Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAANCAYAAACQN/8FAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACxMAAAsTAQCanBgAAAHOSURBVCjPY2BAAjtLxLmPN4pFn2gSTdrfICDAgA2c65C0uznf6erT9dH/H6/0+39zut6d051SfiiK9jcwsFyfa3v21Z7S/++Odf1/uSP7/6OF1v+vT9O7ub9BlAdJoajBw+W+P98crPv/8eLC/6/2lPx/vNj+/705xv+PNwsHwRUerOFTvTXX9sfzjTFg056tC/v/YJbu//tzjP4eaxR3hiv8z8DAuKPF4N7DuUb/H84z/X9/hsb/BzM1/x/qMnxwJo2BFa5QP3rKpMjSiT/XtTr+vzzV+P+Vacb/N7fb/48v6fikHTYhFaxII3iSr0vRmm/muZv++9du/L969Yr/Wzeu+O9Tvvq/Rcay//aZC15reHXoMtimz91ulrnyv1n22v/muRv/960693/Fniv/TdKX/zdKXvDfPHX+f9PYySsYbFJnXDWIm/nfOG0pWDKkdsP/oonbgYoW/jdImPNfL2bKf+v4SRcZTCK6D5gkTAcLGibO/W+aMu+/b8mS//pxM8CKdAPr/xtFdB9lkDQNszOP7r1tnTLzr03qzP/WQGyVAqRTpv+3Tprxzzi88560VZo3xNui2jxi+oFB4oYRNaL6Ic0gDGEHh4HkQEoAjALoHv5slukAAAAASUVORK5CYII="
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 14,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.211Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAuCAIAAABmjeQ9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAERJREFUeF5lTtEKgEAMMv//j/O0IxlH9CA6N2WURAA/OHl5GeWAwUUHBcKV795FtTePxpmV3t9uv8Z3/cmvM88vzbbrAV/dQdX+eas3AAAAAElFTkSuQmCC"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 15,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.212Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkAQAAAABvV2fNAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABVJREFUeF7dwQEBAAAAQCDTTfdD4WOJ5TIB3ib9EgAAAABJRU5ErkJggg=="
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 16,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.212Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkCAIAAADITs03AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADxJREFUeF7litsRACAMwrD77+Q0rtGoV98r+MEFchhgkr4NnZyb3bk/LM/yMCjiH4wots/++hYR3iXLJVWUBS1AtOi2fwAAAABJRU5ErkJggg=="
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 17,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.213Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAMAAAAlM38UAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA9QTFRFsbGxmpqa3d3deXl58/n79CzHcQAAAAV0Uk5T/////wD7tg5TAAAAMklEQVR42mJgwQoYBkqYiZEZAhiZUFRDxWGicEPA4nBRhNlAcYQokpVMDEwD6kuAAAMAyGMFQVv5ldcAAAAASUVORK5CYII="
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 18,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.214Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAQCAIAAABY/YLgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAACZJREFUeF5diqERACAQgID95/3s+cFg4CDQzASkXl4jidvrCPzfA7puAx52W1pnAAAAAElFTkSuQmCC"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 19,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.215Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAAAAAAphRnkAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAClJREFUeF61yMEJACAQxMCN/Xfr/yIsaAfOJxC2UTPWS6f5gABhUTedBz7fGPSonIP/AAAAAElFTkSuQmCC"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 20,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.219Z",
+    "url": "http://bits.wikimedia.org/skins-1.18/vector/images/search-ltr.png?303-4"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 21,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.219Z",
+    "url": "http://bits.wikimedia.org/images/wikimedia-button.png"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 22,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.220Z",
+    "url": "http://bits.wikimedia.org/skins-1.18/common/images/poweredby_mediawiki_88x31.png"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 23,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.220Z",
+    "url": "http://upload.wikimedia.org/wikipedia/commons/4/49/WP_SOPA_sm_icon_fb_333333.png"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 24,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.220Z",
+    "url": "http://upload.wikimedia.org/wikipedia/commons/8/82/WP_SOPA_sm_icon_gplus_333333.png"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 25,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.220Z",
+    "url": "http://upload.wikimedia.org/wikipedia/foundation/e/e0/WP_SOPA_sm_icon_twitter_333333.png"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 26,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.221Z",
+    "url": "http://upload.wikimedia.org/wikipedia/foundation/9/9a/Wikimediafoundation-logo.png"
+}
+Receive {
+    "bodySize": 114,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "114"
+        }
+    ],
+    "id": 9,
+    "redirectURL": null,
+    "stage": "start",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.339Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAAAAAA6fptVAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABRJREFUeF4FwTEBAAAAwJD1D+weGQD4APc0a6VeAAAAAElFTkSuQmCC"
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "114"
+        }
+    ],
+    "id": 9,
+    "redirectURL": null,
+    "stage": "end",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.339Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAAAAAA6fptVAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABRJREFUeF4FwTEBAAAAwJD1D+weGQD4APc0a6VeAAAAAElFTkSuQmCC"
+}
+Receive {
+    "bodySize": 152,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "152"
+        }
+    ],
+    "id": 10,
+    "redirectURL": null,
+    "stage": "start",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.340Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAsCAIAAAArRUU2AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADpJREFUeF5VjUkOAEAIwoD//7lzGJd4MJHGSoBImkFETP67CdLldUd7KC6f8fv3+psd8znbtU5x354HaWQjOx76v7MAAAAASUVORK5CYII="
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "152"
+        }
+    ],
+    "id": 10,
+    "redirectURL": null,
+    "stage": "end",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.340Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAsCAIAAAArRUU2AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADpJREFUeF5VjUkOAEAIwoD//7lzGJd4MJHGSoBImkFETP67CdLldUd7KC6f8fv3+psd8znbtU5x354HaWQjOx76v7MAAAAASUVORK5CYII="
+}
+Receive {
+    "bodySize": 118,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "118"
+        }
+    ],
+    "id": 11,
+    "redirectURL": null,
+    "stage": "start",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.340Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeF4FwTEBAAAAgjD7FzESWfjYdgwEoAJ4lTsaxgAAAABJRU5ErkJggg=="
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "118"
+        }
+    ],
+    "id": 11,
+    "redirectURL": null,
+    "stage": "end",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.340Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeF4FwTEBAAAAgjD7FzESWfjYdgwEoAJ4lTsaxgAAAABJRU5ErkJggg=="
+}
+Receive {
+    "bodySize": 35303,
+    "contentType": "image/jpeg",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "9232"
+        },
+        {
+            "name": "Content-Length",
+            "value": "35303"
+        },
+        {
+            "name": "Content-Type",
+            "value": "image/jpeg"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 07:24:24 GMT"
+        },
+        {
+            "name": "ETag",
+            "value": "\"89e7-4f178f18\""
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Thu, 19 Jan 2012 03:33:44 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Sun-Java-System-Web-Server/7.0"
+        },
+        {
+            "name": "Via",
+            "value": "1.0 webwasher (Webwasher 6.9.0.11282)"
+        },
+        {
+            "name": "X-Cache",
+            "value": "HIT from amssq47.esams.wikimedia.org, HIT from knsq22.knams.wikimedia.org"
+        },
+        {
+            "name": "X-Cache-Lookup",
+            "value": "HIT from amssq47.esams.wikimedia.org:3128, HIT from knsq22.knams.wikimedia.org:80"
+        }
+    ],
+    "id": 12,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.341Z",
+    "url": "http://upload.wikimedia.org/wikipedia/commons/0/03/POSTSOPA_Landing_W-2.jpg"
+}
+Receive {
+    "contentType": "image/jpeg",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "9232"
+        },
+        {
+            "name": "Content-Length",
+            "value": "35303"
+        },
+        {
+            "name": "Content-Type",
+            "value": "image/jpeg"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 07:24:24 GMT"
+        },
+        {
+            "name": "ETag",
+            "value": "\"89e7-4f178f18\""
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Thu, 19 Jan 2012 03:33:44 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Sun-Java-System-Web-Server/7.0"
+        },
+        {
+            "name": "Via",
+            "value": "1.0 webwasher (Webwasher 6.9.0.11282)"
+        },
+        {
+            "name": "X-Cache",
+            "value": "HIT from amssq47.esams.wikimedia.org, HIT from knsq22.knams.wikimedia.org"
+        },
+        {
+            "name": "X-Cache-Lookup",
+            "value": "HIT from amssq47.esams.wikimedia.org:3128, HIT from knsq22.knams.wikimedia.org:80"
+        }
+    ],
+    "id": 12,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.341Z",
+    "url": "http://upload.wikimedia.org/wikipedia/commons/0/03/POSTSOPA_Landing_W-2.jpg"
+}
+Receive {
+    "bodySize": 584,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "584"
+        }
+    ],
+    "id": 13,
+    "redirectURL": null,
+    "stage": "start",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.342Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAANCAYAAACQN/8FAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACxMAAAsTAQCanBgAAAHOSURBVCjPY2BAAjtLxLmPN4pFn2gSTdrfICDAgA2c65C0uznf6erT9dH/H6/0+39zut6d051SfiiK9jcwsFyfa3v21Z7S/++Odf1/uSP7/6OF1v+vT9O7ub9BlAdJoajBw+W+P98crPv/8eLC/6/2lPx/vNj+/705xv+PNwsHwRUerOFTvTXX9sfzjTFg056tC/v/YJbu//tzjP4eaxR3hiv8z8DAuKPF4N7DuUb/H84z/X9/hsb/BzM1/x/qMnxwJo2BFa5QP3rKpMjSiT/XtTr+vzzV+P+Vacb/N7fb/48v6fikHTYhFaxII3iSr0vRmm/muZv++9du/L969Yr/Wzeu+O9Tvvq/Rcay//aZC15reHXoMtimz91ulrnyv1n22v/muRv/960693/Fniv/TdKX/zdKXvDfPHX+f9PYySsYbFJnXDWIm/nfOG0pWDKkdsP/oonbgYoW/jdImPNfL2bKf+v4SRcZTCK6D5gkTAcLGibO/W+aMu+/b8mS//pxM8CKdAPr/xtFdB9lkDQNszOP7r1tnTLzr03qzP/WQGyVAqRTpv+3Tprxzzi88560VZo3xNui2jxi+oFB4oYRNaL6Ic0gDGEHh4HkQEoAjALoHv5slukAAAAASUVORK5CYII="
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "584"
+        }
+    ],
+    "id": 13,
+    "redirectURL": null,
+    "stage": "end",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.342Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAANCAYAAACQN/8FAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACxMAAAsTAQCanBgAAAHOSURBVCjPY2BAAjtLxLmPN4pFn2gSTdrfICDAgA2c65C0uznf6erT9dH/H6/0+39zut6d051SfiiK9jcwsFyfa3v21Z7S/++Odf1/uSP7/6OF1v+vT9O7ub9BlAdJoajBw+W+P98crPv/8eLC/6/2lPx/vNj+/705xv+PNwsHwRUerOFTvTXX9sfzjTFg056tC/v/YJbu//tzjP4eaxR3hiv8z8DAuKPF4N7DuUb/H84z/X9/hsb/BzM1/x/qMnxwJo2BFa5QP3rKpMjSiT/XtTr+vzzV+P+Vacb/N7fb/48v6fikHTYhFaxII3iSr0vRmm/muZv++9du/L969Yr/Wzeu+O9Tvvq/Rcay//aZC15reHXoMtimz91ulrnyv1n22v/muRv/960693/Fniv/TdKX/zdKXvDfPHX+f9PYySsYbFJnXDWIm/nfOG0pWDKkdsP/oonbgYoW/jdImPNfL2bKf+v4SRcZTCK6D5gkTAcLGibO/W+aMu+/b8mS//pxM8CKdAPr/xtFdB9lkDQNszOP7r1tnTLzr03qzP/WQGyVAqRTpv+3Tprxzzi88560VZo3xNui2jxi+oFB4oYRNaL6Ic0gDGEHh4HkQEoAjALoHv5slukAAAAASUVORK5CYII="
+}
+Receive {
+    "bodySize": 162,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "162"
+        }
+    ],
+    "id": 14,
+    "redirectURL": null,
+    "stage": "start",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.342Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAuCAIAAABmjeQ9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAERJREFUeF5lTtEKgEAMMv//j/O0IxlH9CA6N2WURAA/OHl5GeWAwUUHBcKV795FtTePxpmV3t9uv8Z3/cmvM88vzbbrAV/dQdX+eas3AAAAAElFTkSuQmCC"
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "162"
+        }
+    ],
+    "id": 14,
+    "redirectURL": null,
+    "stage": "end",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.342Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAuCAIAAABmjeQ9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAERJREFUeF5lTtEKgEAMMv//j/O0IxlH9CA6N2WURAA/OHl5GeWAwUUHBcKV795FtTePxpmV3t9uv8Z3/cmvM88vzbbrAV/dQdX+eas3AAAAAElFTkSuQmCC"
+}
+Receive {
+    "bodySize": 115,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "115"
+        }
+    ],
+    "id": 15,
+    "redirectURL": null,
+    "stage": "start",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.343Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkAQAAAABvV2fNAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABVJREFUeF7dwQEBAAAAQCDTTfdD4WOJ5TIB3ib9EgAAAABJRU5ErkJggg=="
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "115"
+        }
+    ],
+    "id": 15,
+    "redirectURL": null,
+    "stage": "end",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.343Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkAQAAAABvV2fNAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABVJREFUeF7dwQEBAAAAQCDTTfdD4WOJ5TIB3ib9EgAAAABJRU5ErkJggg=="
+}
+Receive {
+    "bodySize": 154,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "154"
+        }
+    ],
+    "id": 16,
+    "redirectURL": null,
+    "stage": "start",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.343Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkCAIAAADITs03AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADxJREFUeF7litsRACAMwrD77+Q0rtGoV98r+MEFchhgkr4NnZyb3bk/LM/yMCjiH4wots/++hYR3iXLJVWUBS1AtOi2fwAAAABJRU5ErkJggg=="
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "154"
+        }
+    ],
+    "id": 16,
+    "redirectURL": null,
+    "stage": "end",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.343Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkCAIAAADITs03AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADxJREFUeF7litsRACAMwrD77+Q0rtGoV98r+MEFchhgkr4NnZyb3bk/LM/yMCjiH4wots/++hYR3iXLJVWUBS1AtOi2fwAAAABJRU5ErkJggg=="
+}
+Receive {
+    "bodySize": 188,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "188"
+        }
+    ],
+    "id": 17,
+    "redirectURL": null,
+    "stage": "start",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.343Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAMAAAAlM38UAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA9QTFRFsbGxmpqa3d3deXl58/n79CzHcQAAAAV0Uk5T/////wD7tg5TAAAAMklEQVR42mJgwQoYBkqYiZEZAhiZUFRDxWGicEPA4nBRhNlAcYQokpVMDEwD6kuAAAMAyGMFQVv5ldcAAAAASUVORK5CYII="
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "188"
+        }
+    ],
+    "id": 17,
+    "redirectURL": null,
+    "stage": "end",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.344Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAMAAAAlM38UAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA9QTFRFsbGxmpqa3d3deXl58/n79CzHcQAAAAV0Uk5T/////wD7tg5TAAAAMklEQVR42mJgwQoYBkqYiZEZAhiZUFRDxWGicEPA4nBRhNlAcYQokpVMDEwD6kuAAAMAyGMFQVv5ldcAAAAASUVORK5CYII="
+}
+Receive {
+    "bodySize": 132,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "132"
+        }
+    ],
+    "id": 18,
+    "redirectURL": null,
+    "stage": "start",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.344Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAQCAIAAABY/YLgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAACZJREFUeF5diqERACAQgID95/3s+cFg4CDQzASkXl4jidvrCPzfA7puAx52W1pnAAAAAElFTkSuQmCC"
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "132"
+        }
+    ],
+    "id": 18,
+    "redirectURL": null,
+    "stage": "end",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.344Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAQCAIAAABY/YLgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAACZJREFUeF5diqERACAQgID95/3s+cFg4CDQzASkXl4jidvrCPzfA7puAx52W1pnAAAAAElFTkSuQmCC"
+}
+Receive {
+    "bodySize": 135,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "135"
+        }
+    ],
+    "id": 19,
+    "redirectURL": null,
+    "stage": "start",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.344Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAAAAAAphRnkAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAClJREFUeF61yMEJACAQxMCN/Xfr/yIsaAfOJxC2UTPWS6f5gABhUTedBz7fGPSonIP/AAAAAElFTkSuQmCC"
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "135"
+        }
+    ],
+    "id": 19,
+    "redirectURL": null,
+    "stage": "end",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.345Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAAAAAAphRnkAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAClJREFUeF61yMEJACAQxMCN/Xfr/yIsaAfOJxC2UTPWS6f5gABhUTedBz7fGPSonIP/AAAAAElFTkSuQmCC"
+}
+Receive {
+    "bodySize": 214,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Access-Control-Allow-Origin",
+            "value": "*"
+        },
+        {
+            "name": "Age",
+            "value": "808836"
+        },
+        {
+            "name": "Cache-Control",
+            "value": "max-age=2592000"
+        },
+        {
+            "name": "Content-Length",
+            "value": "214"
+        },
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:16 GMT"
+        },
+        {
+            "name": "ETag",
+            "value": "\"d6-4ad4d97295cc0\""
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 09 Feb 2012 01:17:39 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Mon, 19 Sep 2011 16:11:07 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (101865555)"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "2912988738 394948956, 2006262247 3221916305"
+        }
+    ],
+    "id": 20,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.345Z",
+    "url": "http://bits.wikimedia.org/skins-1.18/vector/images/search-ltr.png?303-4"
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Access-Control-Allow-Origin",
+            "value": "*"
+        },
+        {
+            "name": "Age",
+            "value": "808836"
+        },
+        {
+            "name": "Cache-Control",
+            "value": "max-age=2592000"
+        },
+        {
+            "name": "Content-Length",
+            "value": "214"
+        },
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:16 GMT"
+        },
+        {
+            "name": "ETag",
+            "value": "\"d6-4ad4d97295cc0\""
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 09 Feb 2012 01:17:39 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Mon, 19 Sep 2011 16:11:07 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (101865555)"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "2912988738 394948956, 2006262247 3221916305"
+        }
+    ],
+    "id": 20,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.345Z",
+    "url": "http://bits.wikimedia.org/skins-1.18/vector/images/search-ltr.png?303-4"
+}
+Receive {
+    "bodySize": 3605,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Access-Control-Allow-Origin",
+            "value": "*"
+        },
+        {
+            "name": "Age",
+            "value": "808837"
+        },
+        {
+            "name": "Cache-Control",
+            "value": "max-age=2592000"
+        },
+        {
+            "name": "Content-Length",
+            "value": "3605"
+        },
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:16 GMT"
+        },
+        {
+            "name": "ETag",
+            "value": "\"e15-4ad4d963538c0\""
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 09 Feb 2012 01:17:39 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Mon, 19 Sep 2011 16:10:51 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (99081706)"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "2912988080 394949007, 2006262250 3221915524"
+        }
+    ],
+    "id": 22,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.346Z",
+    "url": "http://bits.wikimedia.org/skins-1.18/common/images/poweredby_mediawiki_88x31.png"
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Access-Control-Allow-Origin",
+            "value": "*"
+        },
+        {
+            "name": "Age",
+            "value": "808837"
+        },
+        {
+            "name": "Cache-Control",
+            "value": "max-age=2592000"
+        },
+        {
+            "name": "Content-Length",
+            "value": "3605"
+        },
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:16 GMT"
+        },
+        {
+            "name": "ETag",
+            "value": "\"e15-4ad4d963538c0\""
+        },
+        {
+            "name": "Expires",
+            "value": "Thu, 09 Feb 2012 01:17:39 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Mon, 19 Sep 2011 16:10:51 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (99081706)"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "2912988080 394949007, 2006262250 3221915524"
+        }
+    ],
+    "id": 22,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.346Z",
+    "url": "http://bits.wikimedia.org/skins-1.18/common/images/poweredby_mediawiki_88x31.png"
+}
+Receive {
+    "bodySize": 778,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "54"
+        },
+        {
+            "name": "Content-Length",
+            "value": "778"
+        },
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:57:22 GMT"
+        },
+        {
+            "name": "ETag",
+            "value": "\"30a-4f179fc2\""
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Thu, 19 Jan 2012 04:44:50 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Sun-Java-System-Web-Server/7.0"
+        },
+        {
+            "name": "Via",
+            "value": "1.0 webwasher (Webwasher 6.9.0.11282)"
+        },
+        {
+            "name": "X-Cache",
+            "value": "HIT from amssq61.esams.wikimedia.org, HIT from knsq19.knams.wikimedia.org"
+        },
+        {
+            "name": "X-Cache-Lookup",
+            "value": "HIT from amssq61.esams.wikimedia.org:3128, HIT from knsq19.knams.wikimedia.org:80"
+        }
+    ],
+    "id": 24,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.347Z",
+    "url": "http://upload.wikimedia.org/wikipedia/commons/8/82/WP_SOPA_sm_icon_gplus_333333.png"
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "54"
+        },
+        {
+            "name": "Content-Length",
+            "value": "778"
+        },
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:57:22 GMT"
+        },
+        {
+            "name": "ETag",
+            "value": "\"30a-4f179fc2\""
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Thu, 19 Jan 2012 04:44:50 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Sun-Java-System-Web-Server/7.0"
+        },
+        {
+            "name": "Via",
+            "value": "1.0 webwasher (Webwasher 6.9.0.11282)"
+        },
+        {
+            "name": "X-Cache",
+            "value": "HIT from amssq61.esams.wikimedia.org, HIT from knsq19.knams.wikimedia.org"
+        },
+        {
+            "name": "X-Cache-Lookup",
+            "value": "HIT from amssq61.esams.wikimedia.org:3128, HIT from knsq19.knams.wikimedia.org:80"
+        }
+    ],
+    "id": 24,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.347Z",
+    "url": "http://upload.wikimedia.org/wikipedia/commons/8/82/WP_SOPA_sm_icon_gplus_333333.png"
+}
+Receive {
+    "bodySize": 597,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "8382"
+        },
+        {
+            "name": "Content-Length",
+            "value": "597"
+        },
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 07:38:34 GMT"
+        },
+        {
+            "name": "ETag",
+            "value": "\"255-4f179f28\""
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Thu, 19 Jan 2012 04:42:16 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Sun-Java-System-Web-Server/7.0"
+        },
+        {
+            "name": "Via",
+            "value": "1.0 webwasher (Webwasher 6.9.0.11282)"
+        },
+        {
+            "name": "X-Cache",
+            "value": "HIT from amssq50.esams.wikimedia.org, HIT from amssq56.esams.wikimedia.org"
+        },
+        {
+            "name": "X-Cache-Lookup",
+            "value": "HIT from amssq50.esams.wikimedia.org:3128, HIT from amssq56.esams.wikimedia.org:80"
+        }
+    ],
+    "id": 23,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.347Z",
+    "url": "http://upload.wikimedia.org/wikipedia/commons/4/49/WP_SOPA_sm_icon_fb_333333.png"
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "8382"
+        },
+        {
+            "name": "Content-Length",
+            "value": "597"
+        },
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 07:38:34 GMT"
+        },
+        {
+            "name": "ETag",
+            "value": "\"255-4f179f28\""
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Thu, 19 Jan 2012 04:42:16 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Sun-Java-System-Web-Server/7.0"
+        },
+        {
+            "name": "Via",
+            "value": "1.0 webwasher (Webwasher 6.9.0.11282)"
+        },
+        {
+            "name": "X-Cache",
+            "value": "HIT from amssq50.esams.wikimedia.org, HIT from amssq56.esams.wikimedia.org"
+        },
+        {
+            "name": "X-Cache-Lookup",
+            "value": "HIT from amssq50.esams.wikimedia.org:3128, HIT from amssq56.esams.wikimedia.org:80"
+        }
+    ],
+    "id": 23,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.347Z",
+    "url": "http://upload.wikimedia.org/wikipedia/commons/4/49/WP_SOPA_sm_icon_fb_333333.png"
+}
+Receive {
+    "bodySize": 712,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "1308"
+        },
+        {
+            "name": "Content-Length",
+            "value": "712"
+        },
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:36:28 GMT"
+        },
+        {
+            "name": "ETag",
+            "value": "\"2c8-4f17be70\""
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Thu, 19 Jan 2012 06:55:44 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Sun-Java-System-Web-Server/7.0"
+        },
+        {
+            "name": "Via",
+            "value": "1.0 webwasher (Webwasher 6.9.0.11282)"
+        },
+        {
+            "name": "X-Cache",
+            "value": "HIT from sq80.wikimedia.org, HIT from amssq47.esams.wikimedia.org, HIT from amssq52.esams.wikimedia.org"
+        },
+        {
+            "name": "X-Cache-Lookup",
+            "value": "HIT from sq80.wikimedia.org:3128, HIT from amssq47.esams.wikimedia.org:3128, HIT from amssq52.esams.wikimedia.org:80"
+        }
+    ],
+    "id": 25,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.348Z",
+    "url": "http://upload.wikimedia.org/wikipedia/foundation/e/e0/WP_SOPA_sm_icon_twitter_333333.png"
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "1308"
+        },
+        {
+            "name": "Content-Length",
+            "value": "712"
+        },
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:36:28 GMT"
+        },
+        {
+            "name": "ETag",
+            "value": "\"2c8-4f17be70\""
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Thu, 19 Jan 2012 06:55:44 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Sun-Java-System-Web-Server/7.0"
+        },
+        {
+            "name": "Via",
+            "value": "1.0 webwasher (Webwasher 6.9.0.11282)"
+        },
+        {
+            "name": "X-Cache",
+            "value": "HIT from sq80.wikimedia.org, HIT from amssq47.esams.wikimedia.org, HIT from amssq52.esams.wikimedia.org"
+        },
+        {
+            "name": "X-Cache-Lookup",
+            "value": "HIT from sq80.wikimedia.org:3128, HIT from amssq47.esams.wikimedia.org:3128, HIT from amssq52.esams.wikimedia.org:80"
+        }
+    ],
+    "id": 25,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.348Z",
+    "url": "http://upload.wikimedia.org/wikipedia/foundation/e/e0/WP_SOPA_sm_icon_twitter_333333.png"
+}
+Receive {
+    "bodySize": 2426,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "112"
+        },
+        {
+            "name": "Content-Length",
+            "value": "2426"
+        },
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:16 GMT"
+        },
+        {
+            "name": "ETag",
+            "value": "\"97a-494505e0c46c0\""
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Fri, 05 Nov 2010 16:00:03 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (17276)"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "3413455448 3413171034, 2006262263 2005719100"
+        }
+    ],
+    "id": 21,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.348Z",
+    "url": "http://bits.wikimedia.org/images/wikimedia-button.png"
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "112"
+        },
+        {
+            "name": "Content-Length",
+            "value": "2426"
+        },
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:16 GMT"
+        },
+        {
+            "name": "ETag",
+            "value": "\"97a-494505e0c46c0\""
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Fri, 05 Nov 2010 16:00:03 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (17276)"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "3413455448 3413171034, 2006262263 2005719100"
+        }
+    ],
+    "id": 21,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.348Z",
+    "url": "http://bits.wikimedia.org/images/wikimedia-button.png"
+}
+Receive {
+    "bodySize": 6965,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "286456"
+        },
+        {
+            "name": "Content-Length",
+            "value": "6965"
+        },
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Date",
+            "value": "Mon, 16 Jan 2012 02:24:00 GMT"
+        },
+        {
+            "name": "ETag",
+            "value": "\"1b35-43be9a8c\""
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Fri, 06 Jan 2006 16:27:56 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Sun-Java-System-Web-Server/7.0"
+        },
+        {
+            "name": "Via",
+            "value": "1.0 webwasher (Webwasher 6.9.0.11282)"
+        },
+        {
+            "name": "X-Cache",
+            "value": "HIT from amssq49.esams.wikimedia.org, HIT from amssq48.esams.wikimedia.org"
+        },
+        {
+            "name": "X-Cache-Lookup",
+            "value": "HIT from amssq49.esams.wikimedia.org:3128, HIT from amssq48.esams.wikimedia.org:80"
+        }
+    ],
+    "id": 26,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.349Z",
+    "url": "http://upload.wikimedia.org/wikipedia/foundation/9/9a/Wikimediafoundation-logo.png"
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "286456"
+        },
+        {
+            "name": "Content-Length",
+            "value": "6965"
+        },
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Date",
+            "value": "Mon, 16 Jan 2012 02:24:00 GMT"
+        },
+        {
+            "name": "ETag",
+            "value": "\"1b35-43be9a8c\""
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Fri, 06 Jan 2006 16:27:56 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Sun-Java-System-Web-Server/7.0"
+        },
+        {
+            "name": "Via",
+            "value": "1.0 webwasher (Webwasher 6.9.0.11282)"
+        },
+        {
+            "name": "X-Cache",
+            "value": "HIT from amssq49.esams.wikimedia.org, HIT from amssq48.esams.wikimedia.org"
+        },
+        {
+            "name": "X-Cache-Lookup",
+            "value": "HIT from amssq49.esams.wikimedia.org:3128, HIT from amssq48.esams.wikimedia.org:80"
+        }
+    ],
+    "id": 26,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.349Z",
+    "url": "http://upload.wikimedia.org/wikipedia/foundation/9/9a/Wikimediafoundation-logo.png"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        }
+    ],
+    "id": 27,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.351Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=ext.vector.collapsibleNav%2CcollapsibleTabs%2CeditWarning%2CsimpleSearch&skin=vector&version=20120119T021155Z&*"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        }
+    ],
+    "id": 28,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.351Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=jquery.autoEllipsis%2CcheckboxShiftClick%2CcollapsibleTabs%2Ccookie%2CdelayedBind%2ChighlightText%2CmakeCollapsible%2CmessageBox%2CmwPrototypes%2Cplaceholder%2Csuggestions%2CtabIndex%7Cmediawiki.language%2Cuser%2Cutil%7Cmediawiki.legacy.ajax%2Cmwsuggest%2Cwikibits%7Cmediawiki.page.ready&skin=vector&version=20120119T020714Z&*"
+}
+Receive {
+    "bodySize": 14121,
+    "contentType": "text/javascript; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "27962"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=2592000, s-maxage=2592000"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/javascript; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:16 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Sat, 18 Feb 2012 02:12:14 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Thu, 19 Jan 2012 02:11:55 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (72290)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "2701875315 2699506944, 2243867201 2154247324"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 27,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.386Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=ext.vector.collapsibleNav%2CcollapsibleTabs%2CeditWarning%2CsimpleSearch&skin=vector&version=20120119T021155Z&*"
+}
+Receive {
+    "contentType": "text/javascript; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "27962"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=2592000, s-maxage=2592000"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/javascript; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:16 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Sat, 18 Feb 2012 02:12:14 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Thu, 19 Jan 2012 02:11:55 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (72290)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "2701875315 2699506944, 2243867201 2154247324"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 27,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.387Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=ext.vector.collapsibleNav%2CcollapsibleTabs%2CeditWarning%2CsimpleSearch&skin=vector&version=20120119T021155Z&*"
+}
+Receive {
+    "bodySize": 65217,
+    "contentType": "text/javascript; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "28066"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=2592000, s-maxage=2592000"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/javascript; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:16 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Sat, 18 Feb 2012 02:10:30 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Thu, 19 Jan 2012 02:07:14 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (72118)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "3175901210 3175834462, 2243867224 2153915859"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 28,
+    "redirectURL": null,
+    "stage": "start",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.407Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=jquery.autoEllipsis%2CcheckboxShiftClick%2CcollapsibleTabs%2Ccookie%2CdelayedBind%2ChighlightText%2CmakeCollapsible%2CmessageBox%2CmwPrototypes%2Cplaceholder%2Csuggestions%2CtabIndex%7Cmediawiki.language%2Cuser%2Cutil%7Cmediawiki.legacy.ajax%2Cmwsuggest%2Cwikibits%7Cmediawiki.page.ready&skin=vector&version=20120119T020714Z&*"
+}
+Receive {
+    "contentType": "text/javascript; charset=utf-8",
+    "headers": [
+        {
+            "name": "Accept-Ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "Age",
+            "value": "28066"
+        },
+        {
+            "name": "Cache-control",
+            "value": "public, max-age=2592000, s-maxage=2592000"
+        },
+        {
+            "name": "Content-Encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "Content-Type",
+            "value": "text/javascript; charset=utf-8"
+        },
+        {
+            "name": "Date",
+            "value": "Thu, 19 Jan 2012 09:58:16 GMT"
+        },
+        {
+            "name": "Expires",
+            "value": "Sat, 18 Feb 2012 02:10:30 GMT"
+        },
+        {
+            "name": "Last-Modified",
+            "value": "Thu, 19 Jan 2012 02:07:14 GMT"
+        },
+        {
+            "name": "Proxy-Connection",
+            "value": "keep-alive"
+        },
+        {
+            "name": "Server",
+            "value": "Apache"
+        },
+        {
+            "name": "Vary",
+            "value": "Accept-Encoding"
+        },
+        {
+            "name": "Via",
+            "value": "1.1 varnish, 1.1 webwasher (Webwasher 6.9.0.11282), 1.1 varnish"
+        },
+        {
+            "name": "X-Cache",
+            "value": "hit (72118)"
+        },
+        {
+            "name": "X-Content-Type-Options",
+            "value": "nosniff"
+        },
+        {
+            "name": "X-Powered-By",
+            "value": "PHP/5.3.2-2wm1"
+        },
+        {
+            "name": "X-Varnish",
+            "value": "3175901210 3175834462, 2243867224 2153915859"
+        },
+        {
+            "name": "X-Vary-Options",
+            "value": "Accept-Encoding;list-contains=gzip"
+        }
+    ],
+    "id": 28,
+    "redirectURL": null,
+    "stage": "end",
+    "status": 200,
+    "statusText": "OK",
+    "time": "2012-01-19T09:58:16.410Z",
+    "url": "http://bits.wikimedia.org/wikimediafoundation.org/load.php?debug=false&lang=en&modules=jquery.autoEllipsis%2CcheckboxShiftClick%2CcollapsibleTabs%2Ccookie%2CdelayedBind%2ChighlightText%2CmakeCollapsible%2CmessageBox%2CmwPrototypes%2Cplaceholder%2Csuggestions%2CtabIndex%7Cmediawiki.language%2Cuser%2Cutil%7Cmediawiki.legacy.ajax%2Cmwsuggest%2Cwikibits%7Cmediawiki.page.ready&skin=vector&version=20120119T020714Z&*"
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 29,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.432Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAMAAAA7MLYKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtQTFRF29vb2tra4ODg6urq5OTk4uLi6+vr7e3t7Ozs8PDw5+fn4+Pj4eHh3d3d39/f6Ojo5eXl6enp8fHx8/Pz8vLy7+/v3Nzc2dnZ2NjYnErj7QAAAD1JREFUeNq0wQUBACAMALDj7hf6JyUFGxzEnYhC9GaNPG1xVffGDErk/iCigLl1XV2xM49lfAxEaSM+AQYA9HMKuv4liFQAAAAASUVORK5CYII="
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 30,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.432Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA9QTFRFeXl53d3dmpqasbGx////GU0iEgAAAAV0Uk5T/////wD7tg5TAAAAK0lEQVQI12NwgQIG0hhCDAwMTCJAhqMCA4MiWEoIJABiOCooQhULi5BqMgB2bh4svs8t+QAAAABJRU5ErkJggg=="
+}
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.4.1 Safari/534.34"
+        },
+        {
+            "name": "Referer",
+            "value": "http://wikimediafoundation.org/wiki/SOPA/Blackoutpage"
+        },
+        {
+            "name": "Accept",
+            "value": "*/*"
+        }
+    ],
+    "id": 31,
+    "method": "GET",
+    "time": "2012-01-19T09:58:16.441Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAxQTFRF3d3deXl5////nZ2dQA6SoAAAAAN0Uk5T//8A18oNQQAAADNJREFUeNpiYEIDDMQKMKALMDOgCTDCRWACcBG4AEwEIcDITEAFuhnotmC4g4EEzwEEGAADqgHmQSPJKgAAAABJRU5ErkJggg=="
+}
+Receive {
+    "bodySize": 242,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "242"
+        }
+    ],
+    "id": 29,
+    "redirectURL": null,
+    "stage": "start",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.441Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAMAAAA7MLYKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtQTFRF29vb2tra4ODg6urq5OTk4uLi6+vr7e3t7Ozs8PDw5+fn4+Pj4eHh3d3d39/f6Ojo5eXl6enp8fHx8/Pz8vLy7+/v3Nzc2dnZ2NjYnErj7QAAAD1JREFUeNq0wQUBACAMALDj7hf6JyUFGxzEnYhC9GaNPG1xVffGDErk/iCigLl1XV2xM49lfAxEaSM+AQYA9HMKuv4liFQAAAAASUVORK5CYII="
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "242"
+        }
+    ],
+    "id": 29,
+    "redirectURL": null,
+    "stage": "end",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.442Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAMAAAA7MLYKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtQTFRF29vb2tra4ODg6urq5OTk4uLi6+vr7e3t7Ozs8PDw5+fn4+Pj4eHh3d3d39/f6Ojo5eXl6enp8fHx8/Pz8vLy7+/v3Nzc2dnZ2NjYnErj7QAAAD1JREFUeNq0wQUBACAMALDj7hf6JyUFGxzEnYhC9GaNPG1xVffGDErk/iCigLl1XV2xM49lfAxEaSM+AQYA9HMKuv4liFQAAAAASUVORK5CYII="
+}
+Receive {
+    "bodySize": 181,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "181"
+        }
+    ],
+    "id": 30,
+    "redirectURL": null,
+    "stage": "start",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.442Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA9QTFRFeXl53d3dmpqasbGx////GU0iEgAAAAV0Uk5T/////wD7tg5TAAAAK0lEQVQI12NwgQIG0hhCDAwMTCJAhqMCA4MiWEoIJABiOCooQhULi5BqMgB2bh4svs8t+QAAAABJRU5ErkJggg=="
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "181"
+        }
+    ],
+    "id": 30,
+    "redirectURL": null,
+    "stage": "end",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.442Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA9QTFRFeXl53d3dmpqasbGx////GU0iEgAAAAV0Uk5T/////wD7tg5TAAAAK0lEQVQI12NwgQIG0hhCDAwMTCJAhqMCA4MiWEoIJABiOCooQhULi5BqMgB2bh4svs8t+QAAAABJRU5ErkJggg=="
+}
+Receive {
+    "bodySize": 184,
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "184"
+        }
+    ],
+    "id": 31,
+    "redirectURL": null,
+    "stage": "start",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.442Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAxQTFRF3d3deXl5////nZ2dQA6SoAAAAAN0Uk5T//8A18oNQQAAADNJREFUeNpiYEIDDMQKMKALMDOgCTDCRWACcBG4AEwEIcDITEAFuhnotmC4g4EEzwEEGAADqgHmQSPJKgAAAABJRU5ErkJggg=="
+}
+Receive {
+    "contentType": "image/png",
+    "headers": [
+        {
+            "name": "Content-Type",
+            "value": "image/png"
+        },
+        {
+            "name": "Content-Length",
+            "value": "184"
+        }
+    ],
+    "id": 31,
+    "redirectURL": null,
+    "stage": "end",
+    "status": null,
+    "statusText": null,
+    "time": "2012-01-19T09:58:16.442Z",
+    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAxQTFRF3d3deXl5////nZ2dQA6SoAAAAAN0Uk5T//8A18oNQQAAADNJREFUeNpiYEIDDMQKMKALMDOgCTDCRWACcBG4AEwEIcDITEAFuhnotmC4g4EEzwEEGAADqgHmQSPJKgAAAABJRU5ErkJggg=="
+}
